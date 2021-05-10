@@ -1,7 +1,7 @@
 {
-  "name": "template-instance",
+  "name": "Balancer SourceCred Instance",
   "version": "0.1.0",
-  "description": "A template repo for creating a SourceCred instance",
+  "description": "A SourceCred instance for rewarding sustained engagement in the Balancer community",
   "repository": "git@github.com:sourcecred/template-instance.git",
   "author": "SourceCred Team <contact@sourcecred.io>",
   "license": "MIT",
