@@ -1,5 +1,5 @@
 {
-  "name": "Balancer SourceCred Instance",
+  "name": "template-instance",
   "version": "0.1.0",
   "description": "A SourceCred instance for rewarding sustained engagement in the Balancer community",
   "repository": "git@github.com:sourcecred/template-instance.git",
