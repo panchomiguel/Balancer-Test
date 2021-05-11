@@ -1,7 +1,7 @@
 {
   "name": "template-instance",
   "version": "0.1.0",
-  "description": "A template repo for creating a SourceCred instance",
+  "description": "A SourceCred instance for rewarding sustained engagement in the Balancer community",
   "repository": "git@github.com:sourcecred/template-instance.git",
   "author": "SourceCred Team <contact@sourcecred.io>",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "grain": "sourcecred grain"
   },
   "devDependencies": {
-    "rimraf": "^3.0.2",
-    "dotenv-cli": "^4.0.0"
+    "dotenv-cli": "^4.0.0",
+    "rimraf": "^3.0.2"
   }
 }
